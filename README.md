@@ -36,3 +36,5 @@ I tried to explain the Rust type system to my cat,
 but all it ever cares about is a Box.
 
 I could tell you a joke about my favorite Rust type, but it would be pretty generic. 
+
+Failure is not an Option<T>, but a Result<T, E>
