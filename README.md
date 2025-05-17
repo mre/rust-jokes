@@ -6,7 +6,7 @@ Because your mother loves roses.
 Thanks, dad.  
 No problem, Rust enums.  
 
-How do Rust developer life forever?  
+How do Rust developers live forever?  
 They just add lifetimes when necessary.  
 
 Why are Rust developers so frugal?  
