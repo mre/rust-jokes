@@ -38,3 +38,5 @@ but all it ever cares about is a Box.
 I could tell you a joke about my favorite Rust type, but it would be pretty generic. 
 
 Failure is not an Option\<T>, but a Result<T, E>
+
+You have a problem. You decide to use Rust. Now you have a Rc<RefCell<Box<Problem>>>.
