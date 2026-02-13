@@ -46,3 +46,5 @@ Roses are red, Rust-lang is fine, cannot borrow `i` as mutable more than once at
 My Rust memoirs will be called 'Once in 'a lifetime'.
 
 impl Drop for Mic {}
+
+If a `Pin` drops in a room, and nobody around understands it, does it make an unsound? ([credits: Josh Triplett](https://social.joshtriplett.org/notice/AtrAtfNxi0bcypcBDk))
