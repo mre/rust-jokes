@@ -51,3 +51,7 @@ If a `Pin` drops in a room, and nobody around understands it, does it make an un
 
 How do cats arbitrate access to a shared typesetting system?  
 With a mew-TeX. (credits: Nathaniel Theis on Twitter)
+
+Haskell: When you want to feel smarter than everyone else in the universe.  
+Rust: When you want to feel like an idiot because even a mere compiler is smarter than you.  
+(credits: [Manishearth on /r/rust](https://www.reddit.com/r/rust/comments/47ucw9/comparing_haskell_and_rust_which_to_choose_when/d0fsjvu))
