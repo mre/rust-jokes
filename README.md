@@ -48,3 +48,6 @@ My Rust memoirs will be called 'Once in 'a lifetime'.
 impl Drop for Mic {}
 
 If a `Pin` drops in a room, and nobody around understands it, does it make an unsound? ([credits: Josh Triplett](https://social.joshtriplett.org/notice/AtrAtfNxi0bcypcBDk))
+
+How do cats arbitrate access to a shared typesetting system?
+With a mew-TeX. (credits: Nathaniel Theis on Twitter)
