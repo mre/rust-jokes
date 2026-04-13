@@ -60,7 +60,7 @@ Rust: When you want to feel like an idiot because even a mere compiler is smarte
 
 Rust iterators are the best thing since &[bread]
 
-Two Rust devs are waiting for their code to compile.
-One turns to the other: "Was reading the SemVer spec last night..."
-"Oh yeah? Learn anything new?"
-"Turns out crate versions can go up to 1.0!"
+Two Rust devs are waiting for their code to compile.  
+One turns to the other: "Was reading the SemVer spec last night..."  
+"Oh yeah? Learn anything new?"  
+"Turns out crate versions can go up to 1.0!"  
