@@ -59,3 +59,8 @@ Rust: When you want to feel like an idiot because even a mere compiler is smarte
 (credits: [Manishearth on /r/rust](https://www.reddit.com/r/rust/comments/47ucw9/comparing_haskell_and_rust_which_to_choose_when/d0fsjvu))
 
 Rust iterators are the best thing since &[bread]
+
+Two Rust devs are waiting for their code to compile.
+One turns to the other: "Was reading the SemVer spec last night..."
+"Oh yeah? Learn anything new?"
+"Turns out crate versions can go up to 1.0!"
