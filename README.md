@@ -69,3 +69,6 @@ Ah Rust, the language where you add and remove `&` and `*` until the compiler is
 
 Q: What is the `!` type?  
 A: The never type! It's named after its stabilization date. 
+
+They're making a Hollywood movie about Rust!  
+It's called "Rust: The Story of 'a lifetime"  
