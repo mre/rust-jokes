@@ -66,3 +66,6 @@ One turns to the other: "Was reading the SemVer spec last night..."
 "Turns out crate versions can go up to 1.0!"  
 
 Ah Rust, the language where you add and remove `&` and `*` until the compiler is happy.
+
+Q: What is the `!` type?  
+A: The never type! It's named after its stabilization date. 
