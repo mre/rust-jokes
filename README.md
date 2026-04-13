@@ -64,3 +64,5 @@ Two Rust devs are waiting for their code to compile.
 One turns to the other: "Was reading the SemVer spec last night..."  
 "Oh yeah? Learn anything new?"  
 "Turns out crate versions can go up to 1.0!"  
+
+Ah Rust, the language where you add and remove `&` and `*` until the compiler is happy.
