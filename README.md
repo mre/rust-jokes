@@ -79,3 +79,5 @@ An expert asks: "Why doesn't the compiler stop me from doing things this is horr
 Outsiders complain about Rust's slow compile times. We know it's just extra time to fix bugs while it compiles.
 
 `mem::take` must be the closest thing to stealing we have in Rust compiler.
+
+I wrote a joke about the never type, but I will hold off from telling it until it stabilizes. 
