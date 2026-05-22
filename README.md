@@ -18,7 +18,7 @@ I'd tell you a joke about borrowing in Rust, but you wouldn't get the reference.
 
 I looked for a joke about null pointers in Rust, but there was None.  
 
-I have a joke about Rust's Result type, but it's just.. "Ok".  
+I had a joke about Rust's Result type, but it's just.. "Ok".  
 
 I wanted to write a joke about Rust, but it got rejected by the borrow checker.  
 
@@ -39,7 +39,7 @@ I could tell you a joke about my favorite Rust type, but it would be pretty gene
 
 Failure is not an Option\<T>, but a Result<T, E>
 
-you have a problem. you decide to use Rust. now you have a Rc<RefCell<Box<Problem\>\>\>
+You have a problem. you decide to use Rust. now you have a Rc<RefCell<Box<dyn Problem\>\>\>
 
 You have a problem. You decide to use generics. Now you have a Problem<T> where T: Clone + Send + Sync + 'static
 
@@ -54,16 +54,15 @@ If a `Pin` drops in a room, and nobody around understands it, does it make an un
 How do cats arbitrate access to a shared typesetting system?  
 With a mew-TeX. (credits: Nathaniel Theis on Twitter)
 
+What's the difference between Haskell and Rust developers?
 Haskell: When you want to feel smarter than everyone else in the universe.  
-Rust: When you want to feel like an idiot because even a mere compiler is smarter than you.  
+Rust: When you want to be told by a compiler that you are an idiot.  
 (credits: [Manishearth on /r/rust](https://www.reddit.com/r/rust/comments/47ucw9/comparing_haskell_and_rust_which_to_choose_when/d0fsjvu))
 
 Rust iterators are the best thing since &[bread]
 
-Two Rust devs are waiting for their code to compile.  
-One turns to the other: "Was reading the SemVer spec last night..."  
-"Oh yeah? Learn anything new?"  
-"Turns out crate versions can go up to 1.0!"  
+How do you know someone is a Rust veteran?  
+They swear crates above 1.0 actually exist.  
 
 Ah Rust, the language where you add and remove `&` and `*` until the compiler is happy.
 
@@ -72,3 +71,11 @@ A: The never type! It's named after its stabilization date.
 
 They're making a Hollywood movie about Rust!  
 It's called "Rust: The Story of 'a lifetime"  
+
+How do you know you've truly mastered Rust?
+A beginner asks: "Why does the compiler stop me from doing things this is horrible?"
+An expert asks: "Why doesn't the compiler stop me from doing things this is horrible?"
+
+Outsiders complain about Rust's slow compile times. We know it's just extra time to fix bugs while it compiles.
+
+`mem::take` must be the closest thing to stealing we have in Rust compiler.
