@@ -41,7 +41,7 @@ Failure is not an Option\<T>, but a Result<T, E>
 
 You have a problem. you decide to use Rust. now you have a Rc<RefCell<Box<dyn Problem\>\>\>
 
-You have a problem. You decide to use generics. Now you have a Problem<T> where T: Clone + Send + Sync + 'static
+You have a problem. You decide to use generics. Now you have a `Problem<T>` where T: Clone + Send + Sync + 'static
 
 Roses are red, Rust-lang is fine, cannot borrow `i` as mutable more than once at a time.
 
