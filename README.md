@@ -81,3 +81,5 @@ Outsiders complain about Rust's slow compile times. We know it's just extra time
 `mem::take` must be the closest thing to stealing we have in Rust compiler.
 
 I wrote a joke about the never type, but I will hold off from telling it until it stabilizes. 
+
+> So, what's the joke? ;)  (see https://github.com/rust-lang/rust/pull/155499 )
